@@ -1,4 +1,4 @@
-package org.example;
+package org.example.inheritance;
 
 class BMW extends Car {
 

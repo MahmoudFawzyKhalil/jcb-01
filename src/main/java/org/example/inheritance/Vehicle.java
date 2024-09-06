@@ -1,4 +1,4 @@
-package org.example;
+package org.example.inheritance;
 
 public class Vehicle /*extends Object*/ {
     public static void main(String[] args) {
@@ -20,6 +20,8 @@ public class Vehicle /*extends Object*/ {
     public Vehicle(String color) {
         this.color = color;
     }
+
+//    private List<String> manufacturers = new ArrayList<>();
 
     // Private properties are not inherited
     private String color;

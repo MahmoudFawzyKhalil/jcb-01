@@ -1,4 +1,4 @@
-package org.example;
+package org.example.inheritance;
 
 // Car has a (parent, super, base) class of Vehicle
 class Car extends Vehicle {
