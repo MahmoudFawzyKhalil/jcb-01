@@ -1,5 +1,5 @@
 package org.example.enums;
-
+// Add a comment here
 public enum Gender {
     MALE("Male", 0), // ONLY one object ever of the MALE child class of Gender
     FEMALE("Female", 1),
